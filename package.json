@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap5-javascript-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaborelu/Fake-Bootcamp-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaborelu/Fake-Bootcamp-Website/issues"
+  },
+  "homepage": "https://github.com/Gaborelu/Fake-Bootcamp-Website#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
